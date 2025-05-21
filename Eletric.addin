@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>ManipulateLevels</Name>
+		<AddInId>3D3495DC-FEA2-4301-9943-D93BC90620A3</AddInId>
+		<FullClassName>ManipulateLevels.Tab</FullClassName>
+		<VendorId>Yuri</VendorId>
+		<VendorDescription></VendorDescription>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2025\ManipulateLevels.dll</Assembly>
+	</AddIn>
+</RevitAddIns>
